@@ -6,4 +6,7 @@ chickens
 squirrel
 ducks
 swan
-
+frog
+crow
+pigeon
+racoons
