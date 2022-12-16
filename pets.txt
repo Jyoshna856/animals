@@ -3,3 +3,7 @@ cats
 rats
 rabbits
 chickens
+squirrel
+ducks
+swan
+
