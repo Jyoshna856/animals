@@ -1,0 +1,5 @@
+dogs
+cats
+rats
+rabbits
+chickens
